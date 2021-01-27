@@ -1,0 +1,20 @@
+[
+  {
+    id: 1,
+    slug: "business-and-operations",
+    title: "Business & Operations",
+    excerpt: `Thiết lập doanh nghiệp của bạn để thành công với các bài học về hoạt động kinh doanh, quản lý, bán hàng và chiến thuật khởi nghiệp.`,
+  },
+  {
+    id: 2,
+    slug: "brand-and-identity",
+    title: "Thương hiệu và Định dạng",
+    excerpt: `Xây dựng <strong>bản sắc thương hiệu</strong> của bạn với các bài học về chiến lược xây dựng thương hiệu, tương tác với khách hàng, trang web và trải nghiệm người dùng.`,
+  },
+  {
+    id: 3,
+    slug: "marketing-and-measurement",
+    title: "Marketing & Measurement",
+    excerpt: `Quảng cáo doanh nghiệp của bạn để kiếm được khách hàng trung thành với các bài học về digital marketing, đo lường, social media, analytics, ...`,
+  },
+]
