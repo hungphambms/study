@@ -1,7 +1,7 @@
 [
   {
     "id": "1_0011",
-    "title": '<h3 id="block_1">Tại sao tôi nên xây dựng Audience trước khi tạo sản phẩm?</h3>',
+    "title": "<h3 id='block_1'>Tại sao tôi nên xây dựng Audience trước khi tạo sản phẩm?</h3>",
   },
   {
     "id": "1_001",
@@ -17,7 +17,7 @@
   },
   {
     "id": "1_0031",
-    "title": '<div class="imageCard"><img src="/images/audience-first.jpg" alt="audience-first" /></div>',
+    "title": "<div class='imageCard'><img src='/images/audience-first.jpg' alt='audience-first' /></div>",
   },
   {
     "id": "1_004",
@@ -25,7 +25,7 @@
   },
   {
     "id": "1_0051",
-    "title": '<h3 id="block_2">Làm cách nào để sử dụng Content Marketing để xây dựng Audience?</h3>',
+    "title": "<h3 id='block_2'>Làm cách nào để sử dụng Content Marketing để xây dựng Audience?</h3>",
   },
   {
     "id": "1_005",
@@ -41,7 +41,7 @@
   },
   {
     "id": "1_0071",
-    "title": '<div class="imageCard"><img src="/images/Content-Marketing.jpg" alt="Content-Marketing" /></div>',
+    "title": "<div class='imageCard'><img src='/images/Content-Marketing.jpg' alt='Content-Marketing' /></div>",
   },
   {
     "id": "1_008",
@@ -61,7 +61,7 @@
   },
   {
     "id": "1_0122",
-    "title": '<h3 id="block_3">Làm cách nào sử dụng Audience để tìm ra sản phẩm?</h3>',
+    "title": "<h3 id='block_3'>Làm cách nào sử dụng Audience để tìm ra sản phẩm?</h3>",
   },
   {
     "id": "1_012",
