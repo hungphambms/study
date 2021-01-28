@@ -1,4 +1,5 @@
-[
+{
+      "data": [
       {
          "id":1,
          "slug":"business-and-operations",
@@ -18,3 +19,4 @@
          "excerpt":"Quảng cáo doanh nghiệp của bạn để kiếm được khách hàng trung thành với các bài học về digital marketing, đo lường, social media, analytics, ..."
       }
    ]
+}
