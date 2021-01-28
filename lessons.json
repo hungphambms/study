@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "courseId": 11,
+    "slug": "dau-tien-xay-dung-khan-gia-sau-do-tao-san-pham",
+    "title": "Đầu tiên xây dựng khán giả, sau đó tạo sản phẩm",
+    "excerpt":
+      "Tại sao tôi nên xây dựng khán giả trước khi sản xuất sản phẩm của mình?",
+    "questions": [
+      "Tại sao tôi nên xây dựng Audience trước khi tạo sản phẩm?",
+      "Làm cách nào để sử dụng Content Marketing để xây dựng Audience?",
+      "Làm cách nào sử dụng Audience để tìm ra sản phẩm?",
+    ],
+  },
+  {
+    "id": 2,
+    "courseId": 11,
+    "slug": "tim-khach-hang-cua-ban-voi-gia-tri-vong-doi-khach-hang",
+    "title": "Tìm khách hàng của bạn với Giá trị vòng đời khách hàng (CLV)",
+    "excerpt":
+      "Giá trị vòng đời khách hàng là giá trị mà một khách hàng chi trả cho sản phẩm của công ty bạn trong suốt cuộc đời của họ.",
+    "questions": [
+      "Tất cả các khách hàng được tạo ra có giống nhau không?",
+      "Chính xác thì giá trị lâu dài (CLV) của khách hàng là gì?",
+      "Tôi có thể áp dụng nó như thế nào để giúp doanh nghiệp của mình?",
+    ],
+  },
+  {
+    "id": 3,
+    "courseId": 11,
+    "slug": "vuot-qua-khung-hoang-thuong-hieu-bang-cach-ke-chuyen-hieu-qua",
+    "title": "Vượt qua Khủng hoảng thương hiệu bằng cách kể chuyện",
+    "excerpt":
+      "Những vấn đề khủng hoảng truyền thông và thương hiệu, là một phần của việc kinh doanh. Do đó, chúng ta nên giành thời gian để viết một câu chuyện về nó.",
+    "questions": [
+      "Tại sao thương hiệu phải thừa nhận những Khủng hoảng?",
+      "Tôi nên kể câu chuyện Khủng hoảng như thế nào?",
+      "Làm cách nào để biết tôi đã vượt qua Khủng hoảng?",
+    ],
+  },
+  {
+    "id": 4,
+    "courseId": 11,
+    "slug": "thu-hut-khach-hang-bang-cach-ke-chuyen",
+    "title": "Thu hút khách hàng bằng cách kể chuyện",
+    "excerpt":
+      "Những marketers thành công nhất - trong quá khứ cũng như hiện tại - đều là những nghệ thuật gia trong việc kể chuyện.",
+    "questions": [
+      "Làm cách nào sử dụng kinh nghiệm cá nhân để giúp đỡ doanh nghiệp của mình?",
+      "Cá nhân hóa câu chuyện",
+      "Sứ mệnh của doanh nghiệp",
+    ],
+  },
+  {
+    "id": 5,
+    "courseId": 11,
+    "slug": "phuong-phap-tim-khach-hang-muc-tieu",
+    "title": "Phương pháp Tìm khách hàng mục tiêu",
+    "excerpt":
+      "Xác định khách hàng mục tiêu và phân tích là một phần không thể thiếu trong bất cứ chiến lược marketing nào.",
+    "questions": [
+      "Tại sao tôi nên tránh những mô tả chung chung về đối tượng mục tiêu của mình?",
+      "Cách tốt nhất để định nghĩa Khách hàng mục tiêu là gì?",
+      "Điều này giúp tôi nổi bật so với các đối thủ như thế nào?",
+    ],
+  },
+  {
+    "id": 6,
+    "courseId": 11,
+    "slug":
+      "phuong-phap-marketing-truyen-mieng-hieu-qua-cho-doanh-nghiep-cua-ban",
+    "title":
+      "Phương pháp Marketing Truyền Miệng hiệu quả cho Doanh nghiệp của bạn",
+    "excerpt":
+      "Sự tin tưởng cũng là một thứ cảm xúc. Và tất nhiên, như ta đã biết, cảm xúc là yếu tố quyết định lớn nhất đến hành vi con người. ",
+    "questions": [
+      "Marketing truyền miệng là gì?",
+      "Tại sao marketing truyền miệng quan trọng với doanh nghiệp của bạn?",
+      "Làm thế nào để có chiến lược Marketing truyền miệng hiệu quả?",
+    ],
+  },
+  {
+    "id": 7,
+    "courseId": 12,
+    "slug": "lua-chon-ten-mien-va-hosting-cho-website",
+    "title": "Lựa chọn Tên miền và Hosting cho Website",
+    "excerpt": `Tên miền Website giống như "mặt tiền cửa hàng" trên Website - nó giúp người dùng dễ dàng nhận biết về
+      việc kinh doanh của bạn khi đọc lên.`,
+    "questions": [
+      "Làm thế nào để lựa chọn Tên miền và Hosting phù hợp cho Website của bạn?",
+      "Web Hosting là gì?",
+      "3 loại Web Hosting chính",
+    ],
+  },
+]
